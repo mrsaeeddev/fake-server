@@ -43,6 +43,25 @@
             },
             "price": "9,95 €",
             "img": "https://cdn.shopify.com/s/files/1/0072/8514/5709/products/Marvis-WhiteningMintToothpaste1-1300px_1140x.jpg?v=1629783683"
+        },
+        {
+            "subcategory-id": "handwash",
+            "name": "Dettol Handwash",
+            "brand": {
+                "name": "Dettol"
+            },
+            "price": "10,95 €",
+            "img": "https://media-services.digital-rb.com/s3/live-productcatalogue/sys-master/images/h89/h57/8871181156382/J%20Hand%20Soap%20Ori.jpg?width=1280&height=1280"
+        },
+        {
+            "subcategory-id": "handwash",
+            "name": "Caresse Handwash",
+            "brand": {
+                "name": "Caresse"
+            },
+            "price": "13,95 €",
+            "img": " https://dailydukan.pk/wp-content/uploads/2018/10/caresse-whitening.png"
         }
+       
     ]
 }
