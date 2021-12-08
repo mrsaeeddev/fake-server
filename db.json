@@ -1,0 +1,48 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "Personal Care",
+            "subCategories": [
+                {
+                    "name": "Shampoo",
+                    "id": "shampoo",
+                    "productIds": [
+                        123123,
+                        123123,
+                        123123
+                    ]
+                },
+                {
+                    "name": "Handwash",
+                    "id": "handwash",
+                    "productIds": [
+                        123123,
+                        123123,
+                        123123
+                    ]
+                }
+            ]
+        }
+    ],
+    "product": [
+        {
+            "subcategory-id": "handwash",
+            "name": "Resurrection Handwash",
+            "brand": {
+                "name": "Aesop"
+            },
+            "price": "39,99 €",
+            "img": "https://m.media-amazon.com/images/I/716ryPkQxSL._SX522_.jpg"
+        },
+        {
+            "subcategory-id": "toothpaste",
+            "name": "Whitening Mint Toothpaste",
+            "brand": {
+                "name": "Marvis"
+            },
+            "price": "9,95 €",
+            "img": "https://cdn.shopify.com/s/files/1/0072/8514/5709/products/Marvis-WhiteningMintToothpaste1-1300px_1140x.jpg?v=1629783683"
+        }
+    ]
+}
